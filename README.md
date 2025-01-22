@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I’m @sandei-travolta<br>📱 I'm an app developer with experience kotlin and flutter<br>👀 I’m interested in Artificial intelligence and machine learning<br>🌱 I’m currently learning A.I and machine learning<br>💻 Intrested to work and collaborate on android application projects and cross platform technologies<br>🧪 Currently experimenting on intergrating arumented reality in android applications<br>💞️ I’m looking to collaborate on AI and Machine learning projects<br>📫 How to reach me sandeitravolta@gmail.com<br>
-🌐 portforlio:https://sandei-travolta-portforlio.vercel.app/
+🌐 portforlio: https://sandei-travolta-portforlio.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/travolta-sandei-flutter-dev) 

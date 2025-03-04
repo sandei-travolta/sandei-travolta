@@ -3,8 +3,8 @@
 🌐 portforlio: https://sandei-travolta-portforlio.vercel.app/
 
 # Certifications
-** [Udemy Java SpringBoot Course](https://udemy-certificate.s3.amazonaws.com/image/UC-5af717f7-5dfc-4c68-aa83-c72e67f1299a.jpg) **
->> ### Skills Learned ###
+## [Udemy Java SpringBoot Course](https://udemy-certificate.s3.amazonaws.com/image/UC-5af717f7-5dfc-4c68-aa83-c72e67f1299a.jpg)
+### Skills Learned
 * Spring Boot
 * Spring Core
 * Spring REST

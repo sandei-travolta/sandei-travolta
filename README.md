@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @sandei-travolta<br>📱 I'm an app developer with experience flutter<br>👀 I’m interested in Artificial intelligence and machine learning<br>🌱 I’m currently learning A.I ,machine learning and embedded programming<br>💻 Intrested to work and collaborate on cros platform technologies<br>📫 How to reach me sandeitravolta@gmail.com<br>
+👋 Hi, I’m @sandei-travolta<br>📱 I'm an app developer with experience with flutter<br>👀 I’m interested in Artificial intelligence and machine learning<br>🌱 I’m currently learning A.I ,machine learning and embedded programming<br>💻 Intrested to work and collaborate on cros platform technologies<br>📫 How to reach me sandeitravolta@gmail.com<br>
 🌐 portforlio: https://sandei-travolta-portforlio.vercel.app/
 
 # Certifications
